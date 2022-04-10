@@ -9,20 +9,16 @@ I'm also [@ShipmasterJame](https://github.com/ShipmasterJame) <-- The account I 
 I own Silver Team, a roblox group that makes Sonic Earth nd HedgeBurst Engine and Cube Enix an Organization created to make a powerful console to run Scratch Games. 
 
 ### Cool Projects
-[Crouton](https://github.com/dnschneid/crouton)
-Brings Linux Operating Systems to ChromeOS.
-[Yesnt](https://github.com/SheepTester/yesnt)
-A funny SheepTester (Sean) game where you have to escape the "YES" program.
+1. [Crouton](https://github.com/dnschneid/crouton) - Brings Linux Operating Systems to ChromeOS.
+2. [Yesnt](https://github.com/SheepTester/yesnt) - A funny SheepTester (Sean) game where you have to escape the "YES" program.
 
 ### My Work
-[Chao Engine](https://github.com/ShipmasterKyle/Chao-Engine)
-The first fully functional Chao Garden in Roblox
-[SN-Edit](https://github.com/Cube-Enix/sn-edit)
-The Offical Editor for Cube ENix's SNext
+1. [Chao Engine](https://github.com/ShipmasterKyle/Chao-Engine) - The first fully functional Chao Garden in Roblox
+2. [SN-Edit](https://github.com/Cube-Enix/sn-edit) - The Offical Editor for Cube ENix's SNext
 
 ### Contact
 Want to commission me to work on your project or just want to talk?
 
-Discord: @ShipmasterKyle#8071
-Roblox: Drgametime3d
-Scratch: Drgametime3d
+- Discord: @ShipmasterKyle#8071
+- Roblox: Drgametime3d
+- Scratch: Drgametime3d
