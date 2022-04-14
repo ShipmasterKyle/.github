@@ -6,7 +6,7 @@ I'm a programmer that works on a lot of Roblox and Scratch related projects.
 
 I'm also [@ShipmasterJame](https://github.com/ShipmasterJame) <-- The account I use to upload stuff from vsc. Usually my commits come from here.
 
-I own Silver Team, a roblox group that makes Sonic Earth nd HedgeBurst Engine and Cube Enix an Organization created to make a powerful console to run Scratch Games. 
+I own Silver Team, a roblox group that makes Sonic Earth and HedgeBurst Engine and Cube Enix an Organization created to make a powerful console to run Scratch Games. 
 
 ### Cool Projects
 1. [Crouton](https://github.com/dnschneid/crouton) - Brings Linux Operating Systems to ChromeOS.
