@@ -17,7 +17,7 @@ I own Silver Team, a roblox group that makes Sonic Earth and HedgeBurst Engine a
 2. [SN-Edit](https://github.com/Cube-Enix/sn-edit) - The Offical Editor for Cube Enix's SNext
 3. [Hedgeburst Engine]() - The Physics Engine for Sonic Earth
 4. [March](https://github.com/ShipmasterKyle/RobloxMMR) - A kit of Marching Band Tools and UI for the Mighty Marching Robloxians
-5. [SNext](https://github.com/Cube-Enix/SNext) - A Console written in NOdeJS that runs Scratch Games
+5. [SNext](https://github.com/Cube-Enix/SNext) - A Console written in NodeJS that runs Scratch Games
 
 ### Contact
 Want to commission me to work on your project or just want to talk?
