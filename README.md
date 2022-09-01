@@ -11,6 +11,7 @@ I own Silver Team, a roblox group that makes Sonic Earth and HedgeBurst Engine a
 ### Cool Projects
 1. [Crouton](https://github.com/dnschneid/crouton) - Brings Linux Operating Systems to ChromeOS.
 2. [Yesnt](https://github.com/SheepTester/yesnt) - A funny SheepTester (Sean) game where you have to escape the "YES" program.
+3. [StudioCLI](https://github.com/R0bl0x10501050/StudioCLI) - A Command Line Interface for Roblox Studio
 
 ### My Work
 1. [Chao Engine](https://github.com/ShipmasterKyle/Chao-Engine) - The first fully functional Chao Garden in Roblox
