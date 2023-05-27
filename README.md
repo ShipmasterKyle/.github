@@ -15,10 +15,11 @@ I own Silver Team, a roblox group that makes Sonic Earth and HedgeBurst Engine a
 
 ### My Work
 1. [Chao Engine](https://github.com/ShipmasterKyle/Chao-Engine) - The first fully functional Chao Garden in Roblox
-2. [SN-Edit](https://github.com/Cube-Enix/sn-edit) - The Offical Editor for Cube Enix's SNext
+2. [SN-Edit](https://github.com/Cubix-Firmware/SN-Edit) - The Offical Editor for Cube Enix's SNext
 3. [Hedgeburst Engine](https://www.roblox.com/library/8261922963/ShipmasterKyles-HedgeBurst-Engine-v3-6) - The Physics Engine for Sonic Earth
-4. [March](https://github.com/ShipmasterKyle/RobloxMMR) - A kit of Marching Band Tools and UI for the Mighty Marching Robloxians (WIP)
-5. [SNext](https://github.com/Cube-Enix/SNext) - A Console written in NodeJS that runs Scratch Games
+4. [The RealTime Framework](https://github.com/ShipmasterKyle/RobloxMMR) - A set of working band tools that allow you to actually play your instruments in game.
+5. [SNext](https://github.com/Cubix-Firmware/SNext) - A Console written in NodeJS that runs Scratch Games
+6. [Legends](https://github.com/ShipmasterKyle/Legends) - A Pokemon Based math game developed originally as a school project thats recently seen a fresh coat of paint.
 
 ### Contact
 Want to commission me to work on your project or just want to talk?
