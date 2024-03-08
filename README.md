@@ -24,6 +24,6 @@ I own Silver Team, a roblox group that makes Sonic Earth and HedgeBurst Engine a
 ### Contact
 Want to commission me to work on your project or just want to talk?
 
-- Discord: @ShipmasterKyle(#8071
+- Discord: @shipmasterkyle2
 - Roblox: Drgametime3d
 - Scratch: Drgametime3d
